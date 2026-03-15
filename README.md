@@ -1,6 +1,6 @@
 # GitHub Issues 漏洞检索小工具
 
-基于 GitHub Search API 按漏洞类型检索 Issue，输出 Obsidian 可用的 Markdown 笔记，可选用 OpenAI 接口做相关性筛选。
+基于 GitHub Search API 按漏洞类型检索 Issue，输出 Obsidian 可用的 Markdown 笔记，可选用 OpenAI 接口做相关性筛选。筛选后可利用ai进行进一步漏洞的分析与复现。
 
 ## 功能
 
