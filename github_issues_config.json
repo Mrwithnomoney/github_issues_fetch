@@ -1,0 +1,6 @@
+{
+  "github_token": "你的github token",
+  "openai_api_key": "你的ai apikey",
+  "openai_base_url": "你所购买的平台baseurl 例如:硅基流动，智谱，火山引擎等",
+  "openai_model": "你想使用的模型名称"
+}
